@@ -5,9 +5,13 @@
  */
 package clase3alex;
 
-/**
- *
+/*************************************************************************
+ * Alex Olivares Del Valle
  * @author LAB17
+ * Fecha: Octubre 26 de 2017
+ * Programa: Clase3Alex
+ * Responsabilidad : Clase Principal
+ * ***********************************************************************
  */
 public class Clase3Alex {
 
